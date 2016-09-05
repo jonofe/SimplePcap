@@ -1,5 +1,5 @@
-PHPINC += /usr/php-5.3/include/php
-SWIG += /export/users/marcelog/swig/bin/swig
+PHPINC += /usr/include/php
+SWIG += /usr/bin/swig
 OUTPUTDIR += ./build
 SRCDIR += ./src
 INCDIR += ./include
